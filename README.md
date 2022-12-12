@@ -15,8 +15,8 @@
 - 📝 I regularly write articles on [https://sasankageek.tk/blog/viewPostBlog](https://sasankageek.tk/blog/viewPostBlog)
 
 - 📫 How to reach me **kalana@sasankageek.tk**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/183Ho5MOarWxhZ9BmiynP3vyFPj_o6_yZ/view](https://drive.google.com/file/d/183Ho5MOarWxhZ9BmiynP3vyFPj_o6_yZ/view)
+<!-- 
+- 📄 Know about my experiences [https://drive.google.com/file/d/183Ho5MOarWxhZ9BmiynP3vyFPj_o6_yZ/view](https://drive.google.com/file/d/183Ho5MOarWxhZ9BmiynP3vyFPj_o6_yZ/view) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
