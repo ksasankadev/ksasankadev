@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps,System Administrator,CCNA,Linux**
 
-- 👨‍💻 All of my projects are available at [https://sasankageek.tk/](https://sasankageek.tk/)
+- 👨‍💻 All of my projects are available at [[https://sasankageek.tk/](https://sasankadev.me/)][(https://sasankageek.tk/](https://sasankadev.me/))
 
 - 📝 I regularly write articles on [https://sasankageek.tk/blog/viewPostBlog](https://sasankageek.tk/blog/viewPostBlog)
 
