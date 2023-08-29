@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [[https://sasankadev.me/]](https://sasankadev.me/))
 
-- 📝 I regularly write articles on [https://sasankageek.tk/blog/viewPostBlog](https://sasankageek.tk/blog/viewPostBlog)
+- 📝 I regularly write articles on [https://sasankadev.me/blog/viewPostBlog](https://sasankadev.me/blog/viewPostBlog)
 
 - 📫 How to reach me **kalana@sasankageek.tk**
 <!-- 
