@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kalanasasanka96" target="blank"><img src="https://img.shields.io/twitter/follow/kalanasasanka96?logo=twitter&style=for-the-badge" alt="kalanasasanka96" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, System Administrator, CCNA,Linux**
+- 🌱 I’m currently learning **DevOps, System Administrator, CCNA, Linux**
 
 - 👨‍💻 All of my projects are available at [https://sasankadev.com/](https://sasankadev.me/)
 
