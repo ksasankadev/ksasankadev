@@ -4,9 +4,8 @@
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding" width="400" align="right">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanasa1996s&label=Profile%20views&color=0e75b6&style=flat" alt="kalanasa1996s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksasankadev&label=Profile%20views&color=0e75b6&style=flat" alt="ksasankadev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kalanasasanka96" target="blank"><img src="https://img.shields.io/twitter/follow/kalanasasanka96?logo=twitter&style=for-the-badge" alt="ksasankadev" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps, System Administrator, CCNA, Linux**
 
